@@ -2,7 +2,6 @@ import React from 'react'
 import "../style.css"
 import Main from './Main'
 import { useTranslation } from 'react-i18next'
-import i18next from 'i18next'
 
 const Contact = () => {
     const { t, i18n } = useTranslation();

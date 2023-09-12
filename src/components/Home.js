@@ -16,7 +16,7 @@ const Home = () => {
          <div className='my-5'>
            <button className='btn btn-info mx-2 text-white' onClick={()=>handleClick("en")}>English</button>
            <button className='btn btn-info mx-2 text-white' onClick={()=>handleClick("ko")}>Korea</button>
-           <button  className='btn btn-info mx-2 text-white' onClick={()=>handleClick("chi")}>chinese</button>
+           <button  className='btn btn-info mx-2 ' onClick={()=>handleClick("chi")}>chinese</button>
           </div>  
            <h1 className='my-5'>{t("home.1")}</h1>
            <Main/>

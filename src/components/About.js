@@ -1,9 +1,7 @@
 import React from 'react'
 import "../style.css"
 import Main from './Main'
-import Dropdown from './Dropdown'
 import { useTranslation } from 'react-i18next'
-import i18next from 'i18next'
 
 const About = () => {
    
