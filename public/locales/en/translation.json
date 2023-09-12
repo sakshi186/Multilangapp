@@ -1,0 +1,11 @@
+{
+    "home":{
+        "1":"This is the home page"
+    },
+    "about":{
+        "1":"welcome to about page"
+    },
+    "contact":{
+        "1":"We are here for you , contact us"
+    }
+}
